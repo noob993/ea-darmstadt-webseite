@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://ea-rhein-main.github.io/ea-darmstadt-webseite/test/</loc>
+    <lastmod>2019-01-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ea-rhein-main.github.io/ea-darmstadt-webseite/organizations/</loc>
+    <lastmod>2017-12-28T15:58:33-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ea-rhein-main.github.io/ea-darmstadt-webseite/effective-altruism/</loc>
+    <lastmod>2017-12-28T15:58:29-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ea-rhein-main.github.io/ea-darmstadt-webseite/key-terms/</loc>
+    <lastmod>2017-12-28T15:58:20-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ea-rhein-main.github.io/ea-darmstadt-webseite/reading-material/</loc>
+    <lastmod>2017-12-28T15:58:15-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ea-rhein-main.github.io/ea-darmstadt-webseite/contact/</loc>
+    <lastmod>2017-12-27T02:15:52-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ea-rhein-main.github.io/ea-darmstadt-webseite/faq/</loc>
+    <lastmod>2017-12-27T02:15:52-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ea-rhein-main.github.io/ea-darmstadt-webseite/_footer-left/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ea-rhein-main.github.io/ea-darmstadt-webseite/_footer-right/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ea-rhein-main.github.io/ea-darmstadt-webseite/</loc>
+    <lastmod>2019-01-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ea-rhein-main.github.io/ea-darmstadt-webseite/homepage/_first_section_text/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ea-rhein-main.github.io/ea-darmstadt-webseite/homepage/_second_section_text/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ea-rhein-main.github.io/ea-darmstadt-webseite/homepage/_third_section_text/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ea-rhein-main.github.io/ea-darmstadt-webseite/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ea-rhein-main.github.io/ea-darmstadt-webseite/homepage/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ea-rhein-main.github.io/ea-darmstadt-webseite/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
