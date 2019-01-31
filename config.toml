@@ -1,7 +1,7 @@
 # baseURL should be
 # "https://YOUR-GITHUB-USERNAME.github.io/lean-site-template/" during development,
 # and "your-ea-domain.org/" after your domain has been set up.
-baseURL = "https://rtcharity.github.io/lean-site-template/"
+baseURL = "https://ea-rhein-main.github.io/ea-darmstadt-webseite/"
 theme = "local-ea-template"
 canonifyURLs = true
 
@@ -9,7 +9,7 @@ canonifyURLs = true
 # you can change this language code. In this particular case,
 # baseURL will be the English site, and baseURL/<language code> will be the
 # other languages.
-DefaultContentLanguage = "en"
+DefaultContentLanguage = "de"
 
 # These params are used by the local EA Hugo template
 # used to generate the site. You can find the template
@@ -18,20 +18,20 @@ DefaultContentLanguage = "en"
 
   [Languages]
   [Languages.en]
-  title = "Local EA Website"
+  title = "Effective Altruism Darmstadt"
   weight = 1
   languageCode = "en"
 
   [Languages.en.general]
   ## -- GENERAL SITE PARAMETERS -- ##
-  fullTitle = "Effective Altruism Site Title"
+  fullTitle = "Effective Altruism Darmstadt"
   strapline = "Helping you do good better"
 
   [Languages.en.groupinfo]
   ## -- EA GROUP INFO -- ##
-  legalOrgName = "Effective Altruism <City Here>"
-  orgLocations = "this location and that location"
-  contactEmail = "yourEAGroupEmail@here.com"
+  legalOrgName = "Effektiver Altruismus Darmstadt e.V."
+  orgLocations = "Darmstadt"
+  contactEmail = "info@ea-darmstadt.de"
 
   [Languages.en.navbar]
   ## -- NAVIGATION BAR HEADERS -- ##
@@ -82,6 +82,78 @@ DefaultContentLanguage = "en"
   # meetupButtonText = "Find us on Meetup"
 
   [Languages.en.urls]
+  ## -- EA GROUP FB/TWITTER/MEETUP URLS -- ##
+  # If your group does not have URLs for these, just add # before the line
+  # to remove the link from the site
+  facebookUrl = ""
+  twitterUrl = ""
+  meetupUrl = ""
+
+  [Languages.de]
+  title = "Effektiver Altruismus Darmstadt"
+  weight = 1
+  languageCode = "de"
+
+  [Languages.de.general]
+  ## -- GENERAL SITE PARAMETERS -- ##
+  fullTitle = "Effective Altruism Darmstadt"
+  strapline = "Helping you do good better"
+
+  [Languages.de.groupinfo]
+  ## -- EA GROUP INFO -- ##
+  legalOrgName = "Effektiver Altruismus Darmstadt e.V."
+  orgLocations = "Darmstadt"
+  contactEmail = "info@ea-darmstadt.de"
+
+  [Languages.de.navbar]
+  ## -- NAVIGATION BAR HEADERS -- ##
+  # You probably don't need/want to change these,
+  # but if you do you'll also want to change the relevant .md file under the
+  # content folder so the copy corresponds with the header.
+  home = "Startseite"
+  faq = "FAQ"
+  effectiveAltruism = "Effektiver Altruismus"
+  aboutEA = "Über EA"
+  readingMaterial = "Lesematerial"
+  keyTerms = "Schlüsselwörter"
+  organizations = "Organisationen"
+  contact= "Kontakt"
+
+  [Languages.de.pages]
+  ## -- PAGE HEADERS -- ##
+  contactPageHeader = "Contact us"
+  aboutEAPageHeader = "What is Effective Altruism?"
+
+  [Languages.de.homepage]
+   ## -- HOMEPAGE -- ##
+  topBannerText = "Who are we?"
+  leadText = "We're a group of people who want to help you answer the question: how can I do good better?"
+  firstSectionHeader = "Doing good better"
+  secondSectionHeader = "Building a community"
+  thirdSectionHeader = "Finding better ways to help"
+  bottomBannerText = "A proud member of the effective altruism network"
+
+  [Languages.de.contactform]
+  ## -- CONTACT FORM -- ##
+  leadText = "Say hi!"
+  senderName = "Your name (required)"
+  senderEmail = "Your email (required)"
+  emailSubject = "Subject"
+  emailMessage = "Your Message"
+  send = "Send"
+
+  [Languages.de.jumbotron]
+  # These are the buttons right under the header that appears on the main page.
+  # You can use them to link to a mailing list or Facebook page.
+  # Make sure the links start with http:// or https://
+  firstButtonText = "First Button Text"
+  firstButtonLink = ""
+  secondButtonText = "Second Button Text"
+  secondButtonLink = ""
+  # Remove the # before the text to add the optional Meetup button
+  # meetupButtonText = "Find us on Meetup"
+
+  [Languages.de.urls]
   ## -- EA GROUP FB/TWITTER/MEETUP URLS -- ##
   # If your group does not have URLs for these, just add # before the line
   # to remove the link from the site
