@@ -1,1 +1,1 @@
-We want to help you use evidence and reason to make the world a better place.
+Wir wollen dir helfen, Vernunft und wissenschaftliche Denkweise zu nutzen, um die Welt zu verbessern
