@@ -17,78 +17,6 @@ DefaultContentLanguage = "de"
   [params]
 
   [Languages]
-  [Languages.en]
-  title = "Effective Altruism Darmstadt"
-  weight = 1
-  languageCode = "en"
-
-  [Languages.en.general]
-  ## -- GENERAL SITE PARAMETERS -- ##
-  fullTitle = "Effective Altruism Darmstadt"
-  strapline = "Helping you do good better"
-
-  [Languages.en.groupinfo]
-  ## -- EA GROUP INFO -- ##
-  legalOrgName = "Effektiver Altruismus Darmstadt e.V."
-  orgLocations = "Darmstadt"
-  contactEmail = "info@ea-darmstadt.de"
-
-  [Languages.en.navbar]
-  ## -- NAVIGATION BAR HEADERS -- ##
-  # You probably don't need/want to change these,
-  # but if you do you'll also want to change the relevant .md file under the
-  # content folder so the copy corresponds with the header.
-  home = "Home"
-  faq = "FAQ"
-  effectiveAltruism = "Effective Altruism"
-  aboutEA = "About EA"
-  readingMaterial = "Reading Material"
-  keyTerms = "Key Terms"
-  organizations = "Organizations"
-  contact= "Contact"
-
-  [Languages.en.pages]
-  ## -- PAGE HEADERS -- ##
-  contactPageHeader = "Contact us"
-  aboutEAPageHeader = "What is Effective Altruism?"
-
-  [Languages.en.homepage]
-   ## -- HOMEPAGE -- ##
-  topBannerText = "Who are we?"
-  leadText = "We're a group of people who want to help you answer the question: how can I do good better?"
-  firstSectionHeader = "Doing good better"
-  secondSectionHeader = "Building a community"
-  thirdSectionHeader = "Finding better ways to help"
-  bottomBannerText = "A proud member of the effective altruism network"
-
-  [Languages.en.contactform]
-  ## -- CONTACT FORM -- ##
-  leadText = "Say hi!"
-  senderName = "Your name (required)"
-  senderEmail = "Your email (required)"
-  emailSubject = "Subject"
-  emailMessage = "Your Message"
-  send = "Send"
-
-  [Languages.en.jumbotron]
-  # These are the buttons right under the header that appears on the main page.
-  # You can use them to link to a mailing list or Facebook page.
-  # Make sure the links start with http:// or https://
-  firstButtonText = "First Button Text"
-  firstButtonLink = ""
-  secondButtonText = "Second Button Text"
-  secondButtonLink = ""
-  # Remove the # before the text to add the optional Meetup button
-  # meetupButtonText = "Find us on Meetup"
-
-  [Languages.en.urls]
-  ## -- EA GROUP FB/TWITTER/MEETUP URLS -- ##
-  # If your group does not have URLs for these, just add # before the line
-  # to remove the link from the site
-  facebookUrl = ""
-  twitterUrl = ""
-  meetupUrl = ""
-
   [Languages.de]
   title = "Effektiver Altruismus Darmstadt"
   weight = 1
@@ -121,13 +49,13 @@ DefaultContentLanguage = "de"
 
   [Languages.de.pages]
   ## -- PAGE HEADERS -- ##
-  contactPageHeader = "Contact us"
-  aboutEAPageHeader = "What is Effective Altruism?"
+  contactPageHeader = "Kontakt"
+  aboutEAPageHeader = "Was ist Effektiver Altruismus?"
 
   [Languages.de.homepage]
    ## -- HOMEPAGE -- ##
-  topBannerText = "Who are we?"
-  leadText = "We're a group of people who want to help you answer the question: how can I do good better?"
+  topBannerText = "Wer sind wir?"
+  leadText = "Wir sind eine Gruppe von Menschen die dir dabei helfen wollen die Frage zu beantworten: Wie kannst du die Welt besser machen?"
   firstSectionHeader = "Doing good better"
   secondSectionHeader = "Building a community"
   thirdSectionHeader = "Finding better ways to help"
@@ -135,12 +63,12 @@ DefaultContentLanguage = "de"
 
   [Languages.de.contactform]
   ## -- CONTACT FORM -- ##
-  leadText = "Say hi!"
-  senderName = "Your name (required)"
-  senderEmail = "Your email (required)"
-  emailSubject = "Subject"
-  emailMessage = "Your Message"
-  send = "Send"
+  leadText = "Sag Hallo!"
+  senderName = "Dein Name (notwendig)"
+  senderEmail = "Deine E-Mailadresse (notwendig)"
+  emailSubject = "Betreff"
+  emailMessage = "Deine Nachricht"
+  send = "Senden"
 
   [Languages.de.jumbotron]
   # These are the buttons right under the header that appears on the main page.
