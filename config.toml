@@ -24,7 +24,7 @@ DefaultContentLanguage = "de"
 
   [Languages.de.general]
   ## -- GENERAL SITE PARAMETERS -- ##
-  fullTitle = "Effective Altruism Darmstadt"
+  fullTitle = "Effektiver Altruismus Darmstadt"
   strapline = "Helping you do good better"
 
   [Languages.de.groupinfo]
