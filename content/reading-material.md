@@ -17,4 +17,4 @@ Einen Einstieg in das EA-Forum bietet **[Einführungsliste im EA-Forum](http://w
 
 Im Durchschnitt verbringen wir 80 000 Stunden unseres Lebens auf der Arbeit: Die Organisation "80 0000 Hours" bietet einen **[Guide dazu, mit seinem Beruf möglichst viel Gutes zu tun](https://80000hours.org/career-guide/)**.
 
-Will MacAskills Buch, **[Gutes Besser Tun – Wie wir mit effektivem Altruismus die Welt verändern können](https://www.amazon.de/Gutes-besser-tun-effektivem-Altruismus/dp/3550081405/?pldnSite=1)**, erklärt viele wichtige Konzepte des Effektiven ALtruismus.
+Will MacAskills Buch, **[Gutes Besser Tun – Wie wir mit effektivem Altruismus die Welt verändern können](https://www.amazon.de/Gutes-besser-tun-effektivem-Altruismus/dp/3550081405/?pldnSite=1)**, erklärt viele wichtige Konzepte des Effektiven Altruismus.
